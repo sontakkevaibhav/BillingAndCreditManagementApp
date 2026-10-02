@@ -1,0 +1,10 @@
+{
+  "description": "Streamline billing and credit management for small businesses with an intuitive, user-friendly interface that simplifies invoicing, payments, and customer tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
